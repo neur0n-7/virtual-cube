@@ -33,7 +33,7 @@
     <li>Run main.py from the terminal, IDLE, or any other IDE/text editor that supports Python.</li>
 </ol>
 
-Alternatively, if you have `git` installed, run `git clone https://github.com/neur0n-7/Virtual-Cube.git` to directly clone the contents of this repository.
+Alternatively, if you have `git` installed, run `git clone https://github.com/neur0n-7/virtual-cube.git` to directly clone the contents of this repository.
 
 ## Report Issues  
 If you happen to have an issue with Virtual Cube, please open an issue on GitHub.  
