@@ -26,11 +26,10 @@
 
 ## Download
 <ol>
-    <li>Download the latest stable version of Python 3.X from https://www.python.org/downloads/ if you haven't already done so. (This was made with Python 3.12.4)</li>
     <li>Download this repository as a .zip file.</li>
     <li>Extract the .zip into a folder.</li>
-    <li>Install the required packages.</li>
-    <li>Run main.py from the terminal, IDLE, or any other IDE/text editor that supports Python.</li>
+    <li>Install the required packages with <code>pip install -r requirements.txt</code>.</li>
+    <li>Run main.py from the terminal or any other IDE/text editor that supports Python.</li>
 </ol>
 
 Alternatively, if you have `git` installed, run `git clone https://github.com/neur0n-7/virtual-cube.git` to directly clone the contents of this repository.
